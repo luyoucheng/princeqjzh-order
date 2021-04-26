@@ -21,7 +21,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mybatis.plus.boot.starter.version>3.1.2</mybatis.plus.boot.starter.version>
         <commons.lang3.version>3.8.1</commons.lang3.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <docker.image.prefix>virgil</docker.image.prefix>
     </properties>
 
